@@ -1,4 +1,9 @@
-### Hi there 👋Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Walter Kifugo .C  Web-Software-Flutter Developer, fitness Enthusiast, BasketBall Fan. * 🌍  I'm based in Ongata Rongai, Kenya* 🖥️  See my portfolio at [WaltTersly.Dev](http://walttersly-dev.netlify.app/)* 🧠  I'm learning The Flutter dart Framework, M.E.R.N framework.* ⚡  Interested in most investments possiblities
+### Hi there 👋Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Walter Kifugo .C  
+Web-Software-Flutter Developer, fitness Enthusiast, BasketBall Fan. 
+* 🌍  I'm based in Ongata Rongai, Kenya
+* * 🖥️  See my portfolio at [WaltTersly.Dev](http://walttersly-dev.netlify.app/)
+* * 🧠  I'm learning The Flutter dart Framework, M.E.R.N framework.
+* * ⚡  Interested in most investments possiblities
 
 ### Skills
 
